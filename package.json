@@ -1,0 +1,12 @@
+{
+  "name": "objects-client",
+  "version": "1.0.0",
+  "description": "Ejercicios de practica de objetos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Carlos M. Rodríguez Santana",
+  "license": "ISC"
+}
